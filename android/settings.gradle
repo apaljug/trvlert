@@ -1,0 +1,3 @@
+rootProject.name = 'trvlert'
+
+include ':app'
